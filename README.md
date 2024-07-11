@@ -1,4 +1,4 @@
-![4](https://github.com/NayrAdrian/Password-Manager/assets/125546701/44c6b401-51d3-4d39-bf70-da715bc9a133)A password manager made with Python and Tkinter
+A password manager made with Python, Tkinter and JSON
 - User can save their passwords by filling up the form and clicking the add button, The passwords are saved as JSON.
 - User can either enter their chosen password or "Generate" password.
 - Generated Passwords are randomly generated numbers, symbols, and letters with no specific order (shuffled)
